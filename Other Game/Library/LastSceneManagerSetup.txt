@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/platformer scene.unity
+  isLoaded: 1
+  isActive: 1
